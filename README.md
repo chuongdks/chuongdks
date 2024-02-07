@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me: Bat signal
 - 😄 Pronouns: was/were
-- ⚡ Fun fact: If you read this, I'm right behind you right now.
+- ⚡ Fun fact: If you are read this, I am behind you right now, dont look back, just go to sleep, will code better.
 
 <!---
 chuongdks/chuongdks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
